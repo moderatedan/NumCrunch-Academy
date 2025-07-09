@@ -1,5 +1,5 @@
 # NumCrunch Academy
-![Game Icon](https://raw.githubusercontent.com/moderatedan/NumCrunch-Academy/main/build/AppDir/usr/share/icons/hicolor/256x256/apps/numcrunch.png)
+![Game Screenshot](media/screenshots/game_screenshot.jpg)
 
 Math learning game for kids (Ages 6-12)
 
@@ -16,4 +16,3 @@ Get the latest release:
 ```bash
 chmod +x NumCrunch_Academy*.AppImage
 ./NumCrunch_Academy*.AppImage
-```
