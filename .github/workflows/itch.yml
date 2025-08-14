@@ -14,4 +14,4 @@ jobs:
           channel: linux
           directory: NumCrunch_Release
         env:
-          ITCH_API_KEY: ${{gvFPsS8DbK60x4WOX1zNCGqfuet2moqXWmfeqO8V}}
+          ITCH_API_KEY: ${{ gvFPsS8DbK60x4WOX1zNCGqfuet2moqXWmfeqO8V }}
